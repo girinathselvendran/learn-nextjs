@@ -1,6 +1,5 @@
 "use client";
 import React, { useState } from "react";
-import EquationsComponent from "./EquationsComponent";
 
 export default function Home() {
   const [count, setCount] = useState(0);
