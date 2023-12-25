@@ -14,7 +14,6 @@ export default function Home() {
       <button onClick={incrementCount}>Increment</button>
       <br />
       <br />
-      <EquationsComponent />
     </div>
   );
 }
