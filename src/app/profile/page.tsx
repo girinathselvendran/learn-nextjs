@@ -16,10 +16,27 @@ export default function Profile() {
       <br />
       <br />
       <br />
+
+
       {/* <BlockMath math="\frac{-b \pm \sqrt{b^2-4 a c}}{2 a}" /> */}
       <BlockMath math={value} />
 
+<p><b>
+      HTTP Methods
+  </b></p>
 
+GET
+POST
+PUT
+HEAD
+DELETE
+PATCH
+OPTIONS
+CONNECT
+TRACE
+<p>
+The two most common HTTP methods are: GET and POST.
+</p>
 
       {/* <img src="https://cdn.mathpix.com/snip/images/pFliEOBvLufS20P9VjsDefFfE5j-jULWLZqiamXaarc.original.fullsize.png" /> */}
     </div>
